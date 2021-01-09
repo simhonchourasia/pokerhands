@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pokerhands/static/css/main.3356f8f2.chunk.css",
+    "main.js": "/pokerhands/static/js/main.ef7684ed.chunk.js",
+    "main.js.map": "/pokerhands/static/js/main.ef7684ed.chunk.js.map",
+    "runtime-main.js": "/pokerhands/static/js/runtime-main.a5da9796.js",
+    "runtime-main.js.map": "/pokerhands/static/js/runtime-main.a5da9796.js.map",
+    "static/js/2.6ca7045e.chunk.js": "/pokerhands/static/js/2.6ca7045e.chunk.js",
+    "static/js/2.6ca7045e.chunk.js.map": "/pokerhands/static/js/2.6ca7045e.chunk.js.map",
+    "static/js/3.ecbd6816.chunk.js": "/pokerhands/static/js/3.ecbd6816.chunk.js",
+    "static/js/3.ecbd6816.chunk.js.map": "/pokerhands/static/js/3.ecbd6816.chunk.js.map",
+    "index.html": "/pokerhands/index.html",
+    "static/css/main.3356f8f2.chunk.css.map": "/pokerhands/static/css/main.3356f8f2.chunk.css.map",
+    "static/js/2.6ca7045e.chunk.js.LICENSE.txt": "/pokerhands/static/js/2.6ca7045e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5da9796.js",
+    "static/js/2.6ca7045e.chunk.js",
+    "static/css/main.3356f8f2.chunk.css",
+    "static/js/main.ef7684ed.chunk.js"
+  ]
+}
